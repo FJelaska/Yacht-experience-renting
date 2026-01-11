@@ -76,6 +76,7 @@ header > div{
 }
 .sectionPopUp{
   padding-top: 177px;
+  position: relative;
 }
 .parent{
   max-width: 100%;
@@ -164,7 +165,6 @@ ul > li{
     text-transform: uppercase;
     color: #000000;
 }
-
 .discover {
     padding: 20px 48px;
     box-shadow: 6px 57px 23px rgba(26, 113, 255, 0.04),
@@ -180,11 +180,23 @@ ul > li{
     border-color: #0047ff;
     transition: 1.5s ease;
 }
-
 .discover:hover {
     background-color: #ffffff;
     color: #0047ff;
     cursor: pointer;
+}
+.profile-button{
+  position: absolute;
+  right: 150px;
+  bottom: 50px;
+  text-decoration: none;
+  color: white;
+  font-family: Rische;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 172%;
+  letter-spacing: 0.03em;
 }
 
 @media only screen and (max-width: 1024px) {
