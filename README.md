@@ -1,4 +1,4 @@
-# Yacht/experience renting YOLO) – Group Project (PI)
+# Yacht/experience renting YOLO – Group Project (PI)
 
 ## Project description
 This project is a web application for renting yachts and experiences.
@@ -15,7 +15,8 @@ Version 1.0
 
 ## How to run
 1. Download the project
-2. Run Node.js commands in backend folder
+2. Install needed Node.js folders in /backend
+3. Run from the terminal
 
 ## Authors
 - Frane Jelaska
